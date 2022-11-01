@@ -1,0 +1,1 @@
+web gunicorn nuevo_heroku.wsgi:application --log.file -
